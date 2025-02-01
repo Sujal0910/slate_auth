@@ -1,6 +1,6 @@
 🔐 Slate Role-Based Authentication System 🚀
 🌟 Project Overview
-A comprehensive authentication service designed for Slate's multi-role ecosystem, providing secure and efficient access control for educational stakeholders.
+A comprehensive authentication service designed for Slate's multi-role ecosystem, providing secure and efficient access control fo educational stakeholders.
 ✨ Key Features
 🏫 Role-based login system (School, Parent, Student)
 🔑 JWT authentication
